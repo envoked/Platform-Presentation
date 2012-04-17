@@ -925,4 +925,15 @@ html {
 
 
 
+/*Custom Styles*/
+cite {
+    font-size: 10px;
+    display: block;
+}
+
+img{
+    border: 0 !important;
+}
+
+
 
